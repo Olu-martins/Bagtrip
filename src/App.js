@@ -125,7 +125,7 @@ function App() {
       <section class="bestT">
         <h2>Our Best Tour</h2>
         <p>
-          Theses are locations where we recommend for your team to feel
+          These are locations where we recommend for your team to feel
           healthier, happier and less stressed than before. Sourced from the
           Global Retirement Index
         </p>
